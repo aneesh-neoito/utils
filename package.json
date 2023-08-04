@@ -1,0 +1,50 @@
+{
+  "_from": "@nestjs-nodo/utils@3.33.5",
+  "_id": "@nestjs-nodo/utils@3.33.5",
+  "_inBundle": false,
+  "_integrity": "sha512-clyxmzDRLR5L+CWsiH3jrRM6KWSC/RYbmStNRghLVfsqAKKvi6b2mOw1AbglrTHB4wTnknkGDVhtDU5hu2FPjA==",
+  "_location": "/@nestjs-nodo/utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@nestjs-nodo/utils@3.33.5",
+    "name": "@nestjs-nodo/utils",
+    "escapedName": "@nestjs-nodo%2futils",
+    "scope": "@nestjs-nodo",
+    "rawSpec": "3.33.5",
+    "saveSpec": null,
+    "fetchSpec": "3.33.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://npm.nodo.cc/@nestjs-nodo%2futils/-/utils-3.33.5.tgz",
+  "_shasum": "a0d28705b0669a7f2cbbe000a8375273de338cae",
+  "_spec": "@nestjs-nodo/utils@3.33.5",
+  "_where": "/home/user/Documents/Study/nodooooo",
+  "author": {
+    "name": "nodo.cc"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "### changelog * 1.0.0   Package created",
+  "engines": {
+    "node": "v10.16.2"
+  },
+  "files": [
+    "lib",
+    "*.md"
+  ],
+  "gitHead": "96620f8538ec47cf68340b00f04880237ae8adfb",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "@nestjs-nodo/utils",
+  "repository": {
+    "type": "git",
+    "url": "code.nodo.cc:nestjs-nodo/core.git"
+  },
+  "types": "lib/index.d.ts",
+  "version": "3.33.5"
+}
